@@ -12,17 +12,6 @@ namespace Stuck_In_A_Time_Loop
             {
                 Console.WriteLine(i +" Abracadabra");
             }
-
-
-// Or
-
-
-            while(i <= x){
-                i= 1
-                Console.WriteLine(i +" Abracadabra")
-                i++
-            }
-            
         }
     }
 }
